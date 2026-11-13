@@ -6,7 +6,7 @@
 
 Собираю рабочие инструменты для повседневных задач организаций: обработка почты, инфо-киоски, сайт, отчётность. Дорабатываю 1С: Бухгалтерия и ЗУП.
 
-[![GitHub](https://img.shields.io/badge/GitHub-atregubov87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atregubov87)
+[![GitHub](https://img.shields.io/badge/GitHub-atregubov87-svg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atregubov87-svg)
 [![Email](https://img.shields.io/badge/Email-a.tregubov87@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.tregubov87@gmail.com)
 
 </div>
@@ -173,7 +173,7 @@ flowchart LR
 
 ## Контакты
 
-- **GitHub:** [github.com/atregubov87](https://github.com/atregubov87)
+- **GitHub:** [github.com/atregubov87-svg](https://github.com/atregubov87-svg)
 - **Email:** [a.tregubov87@gmail.com](mailto:a.tregubov87@gmail.com)
 - **Проекты:** описание и демонстрация — по запросу.
 
